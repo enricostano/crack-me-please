@@ -1,0 +1,7 @@
+[package]
+name = "crack-me-please"
+version = "0.1.0"
+authors = ["enricostano <ocirne.onats@gmail.com>"]
+
+[dependencies]
+clap = "2.10.0"
